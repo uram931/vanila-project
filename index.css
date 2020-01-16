@@ -1,0 +1,10 @@
+.form,
+.greeting {
+  display: none;
+}
+.showing {
+  display: block;
+}
+body {
+  color: peru;
+}
